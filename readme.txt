@@ -6,3 +6,4 @@ git diff --cached
 1+1=3
 change to be commited
 stupid
+you are right
